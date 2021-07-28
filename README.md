@@ -1,2 +1,0 @@
-# dwight-schrute
-Learning Repo
